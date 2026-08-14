@@ -21,7 +21,7 @@ h1 {
   margin-bottom: 30px;
 }
 
-/* Lista /
+/* Lista */
 
 .lista-produtos {
   display: grid;
@@ -29,7 +29,7 @@ h1 {
   gap: 25px;
 }
 
-/ Card /
+/* Card */
 
 .card-produto {
   background-color: white;
@@ -81,7 +81,7 @@ h1 {
   background-color: #1d4ed8;
 }
 
-/ Página de detalhes /
+/* Página de detalhes */
 
 .detalhes-produto {
   background-color: white;
@@ -122,8 +122,8 @@ h1 {
 .btn-voltar {
   margin-top: 25px;
 }
-
-/ Responsividade */
+  
+/* Responsividade */
 
 @media (max-width: 800px) {
 
