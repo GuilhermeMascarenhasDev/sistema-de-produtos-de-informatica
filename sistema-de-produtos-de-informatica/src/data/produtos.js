@@ -8,7 +8,7 @@ export const produtos = [
     resumo:
       "Notebook indicado para estudos, trabalho e tarefas do dia a dia.",
     imagem:
-      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853"
+      "https://cdn.awsli.com.br/2704/2704299/produto/380765433/23750_ec7aaf8f-b0a2-43fa-918d-abb97b155045_709x608-6x1d0r17lv.jpg"
   },
 
   {
@@ -20,7 +20,7 @@ export const produtos = [
     resumo:
       "Computador portátil com bom desempenho para estudos e produtividade.",
     imagem:
-      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSk3EkDO7fBuyekwq05REzj_8612MrxtgC7ksKRtsgig&s=10"
   },
 
   {
@@ -32,15 +32,15 @@ export const produtos = [
     resumo:
       "Mouse desenvolvido para jogos e atividades que exigem precisão.",
     imagem:
-      "https://images.unsplash.com/photo-1527814050087-3793815479db"
+      "https://s2-techtudo.glbimg.com/3heF3A0hENAdhpqQpwKjEB_hjpE=/0x52:800x448/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2017/h/d/ZN8gs6Sfarmms3CF19Jw/logitech-mouse-g603.jpg"
   },
 
   {
     id: 4,
     marca: "Kingston",
-    modelo: "NV2 1TB",
+    modelo: "NV2 2TB",
     especificacoes:
-      "SSD NVMe com capacidade de 1 TB, interface PCIe 4.0, alta velocidade de leitura e gravação e formato M.2 2280.",
+      "SSD NVMe com capacidade de 2 TB, interface PCIe 4.0, alta velocidade de leitura e gravação e formato M.2 2280.",
     resumo:
       "Armazenamento rápido para computadores e notebooks compatíveis.",
     imagem:

@@ -71,13 +71,17 @@
 }
 
 #next-steps {
-  display: flex;
+ display: flex;
   border-top: 1px solid var(--border);
   text-align: left;
+  align-items: stretch; /* GERA ALTURA IGUAL PARA TODOS OS CARDS */
 
   & > div {
     flex: 1 1 0;
     padding: 32px;
+    display: flex;             /* ADICIONADO: para usar flex no card */
+    flex-direction: column;    /* ADICIONADO: organiza em coluna */
+
     @media (max-width: 1024px) {
       padding: 24px 20px;
     }
