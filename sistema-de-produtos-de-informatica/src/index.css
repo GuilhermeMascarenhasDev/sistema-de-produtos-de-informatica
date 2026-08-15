@@ -20,7 +20,61 @@ h1 {
   text-align: center;
   margin-bottom: 30px;
 }
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 40px auto;
+}
 
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.barra-busca {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.barra-busca input {
+  width: 100%;
+  max-width: 640px;
+  padding: 16px 24px;
+  font-size: 17px;
+  font-family: inherit;
+  color: #1f1f1f;
+  background: #ffffff;
+  border: 1px solid #e0e0e2;
+  border-radius: 12px;
+  outline: none;
+  box-shadow: 0 2px 8px rgba(20, 20, 30, 0.04);
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.barra-busca input::placeholder {
+  color: #9a9a9e;
+}
+
+.barra-busca input:focus {
+  border-color: #6b8fe0;
+  box-shadow: 0 0 0 4px rgba(107, 143, 224, 0.15);
+}
+
+.sem-resultados {
+  text-align: center;
+  color: #7a7a7e;
+  font-size: 15px;
+  padding: 40px 0;
+}
+
+/* Lista */
+
+.lista-produtos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
+}
 /* Lista */
 
 .lista-produtos {
