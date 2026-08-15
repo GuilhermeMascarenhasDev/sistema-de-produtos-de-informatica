@@ -44,7 +44,7 @@ export const produtos = [
     resumo:
       "Armazenamento rápido para computadores e notebooks compatíveis.",
     imagem:
-      "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b"
+      "https://cdn.awsli.com.br/600x1000/2557/2557636/produto/2033479796909690c77.jpg"
   },
   {
     id: 5,
@@ -153,4 +153,134 @@ export const produtos = [
     imagem:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxM94kGXlD7aCmvFQItSC8kzHN0YNzDOWBEte2jejL-w&s"
   },
+  {
+    id: 14,
+    marca: "Apple",
+    modelo: "MacBook Air M2",
+    especificacoes:
+      "Notebook com chip Apple M2, 8 GB de memória unificada, SSD de 256 GB, tela de 13,6 polegadas Liquid Retina e sistema macOS.",
+    resumo:
+      "Notebook leve e potente para produtividade e uso profissional.",
+    imagem:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjnz7CrMolUIB2ovQLcKgBot4ioTOPWkRgT3NYY_Zidw&s=10"
+  },
+  {
+    id: 15,
+    marca: "HP",
+    modelo: "DeskJet Ink Advantage 2774",
+    especificacoes:
+      "Impressora multifuncional colorida, com funções de impressão, cópia e digitalização, conexão Wi-Fi e sistema de tanque de tinta.",
+    resumo:
+      "Impressora multifuncional para uso doméstico e escritório.",
+    imagem:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxHBgnTZ3gCh4yL6pk_Swg7bmEKPYuDdLweVGwZmcKvQ&s=10"
+  },
+
+  {
+    id: 16,
+    marca: "Samsung",
+    modelo: "Galaxy Tab A9",
+    especificacoes:
+      "Tablet com tela de 8,7 polegadas, 4 GB de RAM, 64 GB de armazenamento interno e sistema Android.",
+    resumo:
+      "Tablet compacto indicado para estudos e entretenimento.",
+    imagem:
+      "https://i.zst.com.br/thumbs/12/14/37/-1219200224.jpg"
+  },
+
+  {
+    id: 17,
+    marca: "Apple",
+    modelo: "iPad 9ª geração",
+    especificacoes:
+      "Tablet com chip A13 Bionic, tela de 10,2 polegadas, 64 GB de armazenamento e compatibilidade com Apple Pencil.",
+    resumo:
+      "Tablet versátil para produtividade, estudo e lazer.",
+    imagem:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScSunQ8tZiaSXWsqN_Zl7XyZI71t_P3gZCKNn9-0bukg&s=10"
+  },
+
+  {
+    id: 18,
+    marca: "Xiaomi",
+    modelo: "Redmi Note 12",
+    especificacoes:
+      "Smartphone com tela AMOLED de 6,67 polegadas, 128 GB de armazenamento, 8 GB de RAM e câmera traseira de 50 MP.",
+    resumo:
+      "Smartphone com boa relação custo-benefício para uso geral.",
+    imagem:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROdMu-aVu1dJWngnz8hnRZ9Hk8NG6GGe80v9jjtrJGYdL8W5rKC-McuE0&s=10"
+  },
+
+  {
+    id: 19,
+    marca: "Motorola",
+    modelo: "Moto G84",
+    especificacoes:
+      "Smartphone com tela pOLED de 6,55 polegadas, 256 GB de armazenamento, 12 GB de RAM e bateria de 5000 mAh.",
+    resumo:
+      "Smartphone com tela de qualidade e bateria de longa duração.",
+    imagem:
+      "https://sm.ign.com/ign_br/screenshot/default/motorola_jj27.png"
+  },
+
+  {
+    id: 20,
+    marca: "Anker",
+    modelo: "PowerCore 10000",
+    especificacoes:
+      "Carregador portátil com bateria de 10000 mAh, saída USB-A, tecnologia PowerIQ e carregamento rápido.",
+    resumo:
+      "Power bank compacto para carregar dispositivos móveis.",
+    imagem:
+      "https://cdn.shopify.com/s/files/1/0595/4034/0926/products/A1263021.jpg?v=1654744958"
+  },
+
+  {
+    id: 21,
+    marca: "Corsair",
+    modelo: "K55 RGB Pro",
+    especificacoes:
+      "Teclado gamer de membrana com iluminação RGB dinâmica, teclas multimídia dedicadas e apoio de pulso.",
+    resumo:
+      "Teclado gamer com boa iluminação e conforto para longas sessões.",
+    imagem:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKboy5kBuwUYqFZWVpFc0onGdvDkGAnNrbV6tjhGjvag&s=10"
+  },
+
+  {
+    id: 22,
+    marca: "Apple",
+    modelo: "Apple iPhone 17e de 256 GB",
+    especificacoes:
+      "iPhone 17e: Desempenho poderoso, design refinado e eficiência máxima. Tela brilhante de alta definição, chip veloz e câmeras avançadas para o seu dia a dia. Tecnologia de ponta e praticidade reunidas em um só aparelho.",
+    resumo:
+      "iPhone 17e: Chip de alta eficiência com suporte a IA",
+    imagem:
+      "https://static.ndmais.com.br/2026/03/apple-lanca-iphone-17e-o-mais-barato-da-linha.jpg"
+  },
+
+  {
+    id: 23,
+    marca: "Seagate",
+    modelo: "Expansion 2TB",
+    especificacoes:
+      "HD externo portátil com capacidade de 2 TB, conexão USB 3.0 e compatibilidade com Windows e Mac.",
+    resumo:
+      "Armazenamento externo para backup de arquivos e dados.",
+    imagem:
+      "https://carrefourbr.vtexassets.com/arquivos/ids/199682657/image-1.jpg?v=638920080293270000"
+  },
+
+  {
+    id: 24,
+    marca: "Philips",
+    modelo: "Momentum 271E1SCA",
+    especificacoes:
+      "Monitor curvo de 27 polegadas, resolução Full HD, painel VA e taxa de atualização de 75Hz.",
+    resumo:
+      "Monitor curvo com boas cores para trabalho e entretenimento.",
+    imagem:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9y-SvANfP0RUeuh7gqLmBxBLps4RBFXzn9n6fDZN6bg&s=10"
+  }
 ];
